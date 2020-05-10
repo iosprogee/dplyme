@@ -1,11 +1,19 @@
 {
-  "main.css": "/dplyme/static/css/main.ffe3df11.chunk.css",
-  "main.js": "/dplyme/static/js/main.49fa02e7.chunk.js",
-  "static/css/1.40567db5.chunk.css": "/dplyme/static/css/1.40567db5.chunk.css",
-  "static/js/1.248d0be7.chunk.js": "/dplyme/static/js/1.248d0be7.chunk.js",
-  "runtime~main.js": "/dplyme/static/js/runtime~main.3430b993.js",
-  "static/media/bootstrap.css": "/dplyme/static/media/glyphicons-halflings-regular.89889688.svg",
-  "index.html": "/dplyme/index.html",
-  "precache-manifest.c91190735b609e420e0506002bf1c4cf.js": "/dplyme/precache-manifest.c91190735b609e420e0506002bf1c4cf.js",
-  "service-worker.js": "/dplyme/service-worker.js"
+  "files": {
+    "main.css": "/dplyme/static/css/main.bfd9321d.chunk.css",
+    "main.js": "/dplyme/static/js/main.9c5206f1.chunk.js",
+    "runtime-main.js": "/dplyme/static/js/runtime-main.2ecf8771.js",
+    "static/js/2.fd6a39f4.chunk.js": "/dplyme/static/js/2.fd6a39f4.chunk.js",
+    "index.html": "/dplyme/index.html",
+    "precache-manifest.16df2207f55bef533d144f1de874402c.js": "/dplyme/precache-manifest.16df2207f55bef533d144f1de874402c.js",
+    "service-worker.js": "/dplyme/service-worker.js",
+    "static/js/2.fd6a39f4.chunk.js.LICENSE.txt": "/dplyme/static/js/2.fd6a39f4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dplyme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ecf8771.js",
+    "static/js/2.fd6a39f4.chunk.js",
+    "static/css/main.bfd9321d.chunk.css",
+    "static/js/main.9c5206f1.chunk.js"
+  ]
 }
